@@ -1,6 +1,6 @@
 # custom-codex-pet-styles (´｡• ᵕ •｡`)
 
-上传参考图，从三种风格里选一种，自动生成你的专属 Codex 宠物。
+用户上传参考图，从三种风格里选一种，自动生成你的专属 Codex 宠物。
 Codex 宠物是 Codex 应用里的可选动画伴侣，以悬浮窗口的形式显示当前任务进度，
 反映 Codex 正在运行、等待输入还是等待审查，让你不用打开线程就能随时瞄一眼状态。
 
@@ -13,7 +13,7 @@ waiting for input, or ready for review.
 
 ### 这个 skill 做什么 / What this skill does
 
-`$hatch-pet` 是官方的宠物生成 skill，但风格由 AI 自由发挥。
+`$hatch-pet` 是chatgpt官方的宠物生成 skill，但风格单一且不好看。
 这个 skill 在它的基础上提供三种精心设计的可爱风格，让你的宠物更有个性。
 
 `$hatch-pet` is the official pet-creation skill, but it picks the style on its own.
